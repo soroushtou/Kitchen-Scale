@@ -1,0 +1,28 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+Weight_Shiwu                                                                      0x0160       4
+Weight_Maopi                                                                      0x0164       4
+HX711_Buffer                                                                      0x0168       4
+scale                                                                             0x016C       4
+array                                                                             0x0170     164
+segment                                                                           0x0214      20
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+b                                                                                 R4,R5        2
+scale_int                                                                         R6,R7        2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x00052    163
+HX711_Read                                                                        0x000F5     45
+get_scale                                                                         0x00122     54
+get_offset                                                                        0x00158     41
+sort_array                                                                        0x00181     72
