@@ -1,7 +1,7 @@
 # Kitchen-Scale
-DIY kitchen scale
+DIY kitchen scale.
 
-program is written in Codevision AVR
+program is written in Codevision AVR.
 
 This is my DIY kitchen scale. As the name applies, I use it in the kitchen to weigh powders and other food ingredients! It can weigh up to 1kg with 0.2g precision. Features a button to reset the current weight to zero and uses 2, 2-digits seven segments for display!
 The weighting is done by a 1kg Load cell, an HX-711 module, and an Atmega8. I used a Lithium-Ion battery and boost converter to power the circuit. The program is written in C language and Codevision AVR software.
