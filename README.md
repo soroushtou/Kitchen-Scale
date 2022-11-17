@@ -12,7 +12,6 @@ PCB : https://oshwlab.com/Soroosh/my-kitchen-scale
 ![1](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(1).jpg)
 ![2](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(2).jpg)
 ![3](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(3).jpg)
-![4](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(4).jpg)
 ![5](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(5).jpg)
 ![6](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(6).jpg)
 ![7](https://github.com/soroushtou/Kitchen-Scale/blob/main/images/1%20(7).jpg)
